@@ -5,6 +5,6 @@ require "open-uri"
 
 def create_project_hash
   
-  html = 
+  html = File.read()
   # write your code here
 end
