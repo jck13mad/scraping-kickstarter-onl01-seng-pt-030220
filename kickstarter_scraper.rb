@@ -5,6 +5,6 @@ require "open-uri"
 
 def create_project_hash
   
-  html = File.read()
+  html = File.read('fixtures/')
   # write your code here
 end
